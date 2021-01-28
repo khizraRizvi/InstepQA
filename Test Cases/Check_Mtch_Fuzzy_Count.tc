@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_Mtch_Fuzzy_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7d304bb-4737-4839-8cd5-6c0334d45690</testCaseGuid>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>ffe862a1-13bf-482b-8105-311b9083f496</id>
+      <masked>false</masked>
+      <name>MTCH_Fuzzy_Match_Key_Count</name>
+   </variable>
+</TestCaseEntity>

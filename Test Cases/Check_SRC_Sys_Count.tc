@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_SRC_Sys_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>31ae85b0-17af-4a9d-9cfe-c8015800a845</testCaseGuid>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>e2d835e7-3e3a-43f0-9cd5-5878b87cf68d</id>
+      <masked>false</masked>
+      <name>SRC_System_Count</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_SRC_Trust_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e68d821e-30b1-4ad3-a1d9-45ed43036fff</testCaseGuid>
+   <variable>
+      <defaultValue>'412'</defaultValue>
+      <description></description>
+      <id>a1153128-ce2b-4d81-afe8-61f6dbcc246b</id>
+      <masked>false</masked>
+      <name>TRUST_COLUMN_Count</name>
+   </variable>
+</TestCaseEntity>

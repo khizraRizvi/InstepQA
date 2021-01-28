@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_BO_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad8d7644-c379-40df-9bf1-cc237744dc92</testCaseGuid>
+   <variable>
+      <defaultValue>'192'</defaultValue>
+      <description></description>
+      <id>c39d4407-8eb4-4890-8e36-ae8c01271778</id>
+      <masked>false</masked>
+      <name>exp_BO_COUNT</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_PCKG_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09d96f35-a7a1-45b8-be85-c1a4f94f4356</testCaseGuid>
+   <variable>
+      <defaultValue>'1068'</defaultValue>
+      <description></description>
+      <id>16274769-ed61-46b4-b4e6-d4384788d7dc</id>
+      <masked>false</masked>
+      <name>BO_PACKAGE_COUNT</name>
+   </variable>
+</TestCaseEntity>

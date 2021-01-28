@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_BO_Query_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1dd3997-5fc6-4f60-ae69-f6cb9f70f4cf</testCaseGuid>
+   <variable>
+      <defaultValue>'9'</defaultValue>
+      <description></description>
+      <id>27b27655-bf96-4e0c-9923-9caa8987a1ff</id>
+      <masked>false</masked>
+      <name>BO_QUERY_COUNT</name>
+   </variable>
+</TestCaseEntity>

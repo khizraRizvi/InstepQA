@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>LM-Test-H</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'jdbc:oracle:thin:@lm-test-h-db.cath1dem6bov.us-east-1.rds.amazonaws.com:1521/LMTESTDB'</initValue>
+      <name>ora_connect</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CUSTOMER360_ORS'</initValue>
+      <name>ora_schema</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CUSTOMER360_ORS'</initValue>
+      <name>ora_username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'testcustlm'</initValue>
+      <name>ora_password</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

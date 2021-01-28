@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_BO_SQL_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f51774c3-aa39-4cf2-ab40-f9b7ea28c667</testCaseGuid>
+   <variable>
+      <defaultValue>'283'</defaultValue>
+      <description></description>
+      <id>3f0ba5ef-0b18-4c46-80df-2b918c3996f6</id>
+      <masked>false</masked>
+      <name>BO_QUERY_COUNT</name>
+   </variable>
+</TestCaseEntity>

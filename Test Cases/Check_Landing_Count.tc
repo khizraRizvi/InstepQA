@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_Landing_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3893077-33d3-4609-898e-6eabd50f9d30</testCaseGuid>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>449cf3b4-5d8c-4fbf-ad6f-43cbf76426c8</id>
+      <masked>false</masked>
+      <name>LDG_COUNT</name>
+   </variable>
+</TestCaseEntity>

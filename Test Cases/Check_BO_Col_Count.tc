@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_BO_Col_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>916bf18c-1342-43c6-a8b1-be7b62f4a87b</testCaseGuid>
+   <variable>
+      <defaultValue>'3483'</defaultValue>
+      <description></description>
+      <id>d4baa237-7f84-437f-be39-726eba229e09</id>
+      <masked>false</masked>
+      <name>BO_COLUMN_COUNT</name>
+   </variable>
+</TestCaseEntity>

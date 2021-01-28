@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_Mtch_Col_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2ae079a-53e1-4fc6-936b-42cad99052b4</testCaseGuid>
+   <variable>
+      <defaultValue>'83'</defaultValue>
+      <description></description>
+      <id>f8efc521-b4e4-4cf8-b6e7-da728b9fe246</id>
+      <masked>false</masked>
+      <name>MTCH_Column_Count</name>
+   </variable>
+</TestCaseEntity>

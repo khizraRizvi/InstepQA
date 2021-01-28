@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_BG_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51d0a70f-51e8-4c1e-94bd-1aa4e84c22cb</testCaseGuid>
+   <variable>
+      <defaultValue>'49'</defaultValue>
+      <description></description>
+      <id>c8fcaffa-ef73-4346-a135-b313421e5e12</id>
+      <masked>false</masked>
+      <name>BO_BG_COUNT</name>
+   </variable>
+</TestCaseEntity>

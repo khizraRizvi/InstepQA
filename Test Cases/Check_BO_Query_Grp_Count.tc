@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_BO_Query_Grp_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>835b9d40-1118-4b34-a3c6-b6aa505a9586</testCaseGuid>
+   <variable>
+      <defaultValue>'282'</defaultValue>
+      <description></description>
+      <id>6490c9d4-7bfc-4caa-b7e7-94ac09895c1f</id>
+      <masked>false</masked>
+      <name>BO_QUERY_COUNT</name>
+   </variable>
+</TestCaseEntity>

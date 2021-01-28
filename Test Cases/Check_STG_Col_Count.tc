@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_STG_Col_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2ed1c2a-c185-4e0e-873e-3ef5a79fed70</testCaseGuid>
+   <variable>
+      <defaultValue>'962'</defaultValue>
+      <description></description>
+      <id>261183fb-700e-41ce-a12b-55c248620273</id>
+      <masked>false</masked>
+      <name>STG_COLUMN_COUNT</name>
+   </variable>
+</TestCaseEntity>

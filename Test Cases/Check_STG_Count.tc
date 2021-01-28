@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check_STG_Count</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19228916-6b54-48cd-8035-6d85e0735f70</testCaseGuid>
+   <variable>
+      <defaultValue>'216'</defaultValue>
+      <description></description>
+      <id>cf0bdfcb-8c22-4690-8396-a9b067c09840</id>
+      <masked>false</masked>
+      <name>STG_COUNT</name>
+   </variable>
+</TestCaseEntity>
